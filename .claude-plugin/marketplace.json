@@ -1,0 +1,13 @@
+{
+    "name":  "claude-mod-trail",
+    "owner":  {
+                  "name":  "Hasan"
+              },
+    "plugins":  [
+                    {
+                        "description":  "A side pane of every file Claude reads or changes this session, in any folder or drive, lit up live (reads purple, writes orange) with +/- line counts. Watches tool calls only: no model calls, no tokens. /trail opens it.",
+                        "name":  "trail",
+                        "source":  "./"
+                    }
+                ]
+}

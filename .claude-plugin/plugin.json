@@ -1,0 +1,6 @@
+{
+  "name": "trail",
+  "version": "0.3.0",
+  "description": "A side pane of every file Claude reads or changes this session, in any folder or drive, lit up live (reads purple, writes orange) with +/- line counts. Watches tool calls only: no model calls, no tokens. /trail opens it.",
+  "types": "./types/index.d.ts"
+}
